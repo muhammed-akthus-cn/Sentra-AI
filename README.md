@@ -1,6 +1,6 @@
 # Sentra AI — Edge-Based Crowd Crush Predictor
 
-**Sentra AI** is a lightweight, offline-first Computer Vision pipeline engineered to detect early precursors of crowd crush and stampedes on constrained edge CPUs—without relying on cloud servers or heavy GPU hardware.
+**Sentra AI** is a lightweight, offline-first Computer Vision pipeline engineered to detect early precursors of crowd crush and stampedes on constrained edge CPUs without relying on cloud servers or heavy GPU hardware.
 
 ---
 
